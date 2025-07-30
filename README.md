@@ -53,7 +53,7 @@ Post Load Log Update
 Global Prevalence Heat Map by Country and Year
 Burden of Mental Illnesses (Line Chart)
 Treatment Gap Analysis for Anxiety Disorders
-![reprt](screenshots/report-1.JPG)
+![reprts](screenshots/report-1.JPG)
 
 
 ## Conclusion
