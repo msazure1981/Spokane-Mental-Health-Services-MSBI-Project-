@@ -9,7 +9,7 @@ Power BI - Reporting and dashboard creation
 
 # Data Sources
 CSV Files:
-Mental illnesses prevalence
+Mental illness prevalence
 Burden of disease
 Depression and anxiety coverage data
 DB2 Database (additional clinical data)
@@ -22,7 +22,7 @@ DB2 data pulled using SSIS OLE DB Source
 Data cleaned and transformed into staging tables (stage schema)
 Dimension and Fact tables created for the data warehouse
 ## Load:
-Final data loaded into data warehouse for reporting
+Final data loaded into the data warehouse for reporting
 
 # Data Warehouse Design
 ## Dimension Tables:
@@ -43,7 +43,9 @@ Truncate Stage Table
 Insert into Stage Table (from OLE DB Source to Destination)
 Load into Target Table
 Post Load Log Update
-
+![screenshots](screenshots/stage load-1.JPG)
+![screenshots](screenshots/stage load-2.JPG)
+![screenshots](screenshots/stage load-3.JPG)
 
 # Power BI Sample Visuals
 Global Prevalence Heat Map by Country and Year
