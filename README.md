@@ -43,10 +43,9 @@ Truncate Stage Table
 Insert into Stage Table (from OLE DB Source to Destination)
 Load into Target Table
 Post Load Log Update
-![screenshots](screenshots/stage load-1.JPG)
-![screenshots](screenshots/stage load-2.JPG)
-![screenshots](screenshots/stage load-3.JPG)
-![screens](screenshots/stage_load-1.JPG)
+![screenshots](screenshots/stage_load-1.JPG)
+![screenshots](screenshots/stage_load-2.JPG)
+![screenshots](screenshots/stage_load-3.JPG)
 
 # Power BI Sample Visuals
 Global Prevalence Heat Map by Country and Year
