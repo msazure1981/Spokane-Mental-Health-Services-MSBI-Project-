@@ -36,6 +36,8 @@ fact_prevalence
 fact_burden
 fact_treatment_gap
 
+# Data Model
+
 # SSIS Package Flow (Screenshots Attached)
 Pre Load Log
 Extract ModifiedOn Time
@@ -51,6 +53,8 @@ Post Load Log Update
 Global Prevalence Heat Map by Country and Year
 Burden of Mental Illnesses (Line Chart)
 Treatment Gap Analysis for Anxiety Disorders
+![reprt](screenshots/report-1.JPG)
+
 
 ## Conclusion
 This project demonstrates the end-to-end MSBI process from data ingestion to insightful analytics. It highlights practical skills in SSIS, SSAS, SQL, and Power BI applied to real-world mental health data.
